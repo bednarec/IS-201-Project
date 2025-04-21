@@ -1,0 +1,75 @@
+body {
+    
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #f0f8ff;
+    color: rgb(33, 57, 64);
+  }
+  
+
+.header{
+    
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    background-color: cadetblue;
+    color: white;
+    padding: 50px;
+    
+}
+.nav{
+    text-align: center;
+    background-color:rgb(33, 57, 64) ;
+    text-decoration: none;
+    padding: 10px;
+}
+.nav a{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    background-color: rgb(33, 57, 64);
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    
+}
+.nav a:visited {
+    color: #ffffff;  
+  }
+.nav a:hover{
+    background-color:rgb(187, 221, 221);
+    color:rgb(33, 57, 64)
+}
+.home{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: right;
+    background-color: cadetblue;
+    padding: 15px;
+    color:white;
+    
+}
+.home a{
+    text-decoration: none;
+    color: white;
+}
+.home a:visited{
+    color: white;
+}
+
+.list{
+    padding-left: 0;
+    list-style-position: outside;
+    margin: 0 auto;
+    display: table;
+    text-align: left;
+    
+}
+
+.image{
+    text-align: center;
+}
+
+.video{
+    text-align: center;
+}
+.tableau{
+    text-align: center;
+}
